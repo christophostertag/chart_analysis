@@ -5,3 +5,5 @@ To use it:
 1. Build fake Charts with the fakeCharts notebook. Define other initial plot patterns if you like.
 2. Optional: Train your model with the train notebook.
 3. Use the evaluate notebook to evaluate different models.
+
+To learn more take a look into Chart_Pattern_Categorization_with_CNNs.pdf
