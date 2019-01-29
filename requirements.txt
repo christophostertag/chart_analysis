@@ -1,0 +1,9 @@
+numpy
+glob3
+tqdm
+Pillow
+matplotlib
+scipy
+sklearn
+keras
+tensorflow
